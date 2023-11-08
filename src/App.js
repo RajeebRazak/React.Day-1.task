@@ -122,7 +122,7 @@
   ];
 return (
     
-    <section class="pricing py-5">
+    <section className="pricing py-5">
      <div className="container">
      <div className="row">
       {
